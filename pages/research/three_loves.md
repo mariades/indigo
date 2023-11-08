@@ -1,7 +1,7 @@
 ---
 title: Three Loves for Three Oranges
 layout: page
-permalink: /research/three_loves/
+permalink: /indigo/research/three_loves/
 ---
 
 # ***Three Loves for Three Oranges:<br> Gozzi, Meyerhold, Prokofiev***

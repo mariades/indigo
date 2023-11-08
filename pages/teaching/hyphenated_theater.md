@@ -1,7 +1,7 @@
 ---
 title: Hyphenated Theater
 layout: page
-permalink: /teaching/hyphenated_theater/
+permalink: /indigo/teaching/hyphenated_theater/
 ---
 
 # **Hyphenated Theatre and Performance**

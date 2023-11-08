@@ -1,7 +1,7 @@
 ---
 title: Color Crossings
 layout: page
-permalink: /symposia/color_crossings
+permalink: /indigo/symposia/color_crossings
 ---
 
 

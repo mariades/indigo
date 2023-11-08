@@ -1,7 +1,7 @@
 ---
 title: Immigrant Experience
 layout: page
-permalink: /teaching/immigrant_experience/
+permalink: /indigo/teaching/immigrant_experience/
 ---
 
 # **Contemporary American Drama:<br> The Immigrant Experience**

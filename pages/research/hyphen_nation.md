@@ -1,7 +1,7 @@
 ---
 title: Hyphen Nation
 layout: page
-permalink: /research/hyphen_nation/
+permalink: /indigo/research/hyphen_nation/
 ---
 
 # ***Hyphen-Nation: Racial Impersonation and the Performance of Hyphenated Americanness***

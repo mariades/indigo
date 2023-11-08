@@ -1,7 +1,7 @@
 ---
 title: Jue Quon Tai 
 layout: page
-permalink: /research/jue_quon_tai/
+permalink: /indigo/research/jue_quon_tai/
 ---
 
 # **“Chinese American Identity, Performance, and Immigration Law: Jue Quon Tai in Theaters and at National Borders”**

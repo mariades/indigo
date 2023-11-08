@@ -1,7 +1,7 @@
 ---
 title: Minoritarian Performance
 layout: page
-permalink: /teaching/minoritarian_performance/
+permalink: /indigo/teaching/minoritarian_performance/
 ---
 
 # **Minoritarian Feminist Performance**
