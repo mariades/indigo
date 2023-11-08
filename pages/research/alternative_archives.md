@@ -1,7 +1,7 @@
 ---
 title: Alternative Archives 
 layout: page
-permalink: research/alternative_archives/
+permalink: /research/alternative_archives/
 ---
 
 # **“Alternative Archives in Popular Entertainment Research: <br>The Chinese Exclusion Act Case Files”**

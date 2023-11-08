@@ -1,7 +1,7 @@
 ---
 title: Bold Bodies 
 layout: page
-permalink: /indigo/teaching/bold_bodies/
+permalink: /teaching/bold_bodies/
 ---
 
 

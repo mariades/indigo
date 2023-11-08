@@ -1,7 +1,7 @@
 ---
 title: Comedy and Embodiment
 layout: page
-permalink: /indigo/symposia/comedy_and_embodiment
+permalink: /symposia/comedy_and_embodiment
 ---
 
 # **Comedy & Embodiment**

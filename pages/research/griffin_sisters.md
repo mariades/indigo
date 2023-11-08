@@ -1,7 +1,7 @@
 ---
 title: Griffin Sisters
 layout: page
-permalink: /indigo/research/griffin_sisters/
+permalink: /research/griffin_sisters/
 ---
 
 # **“Leadership as Community Service:<br> The Griffin Sisters, ‘The First and Only Colored Women’s Theatrical Booking Agency in the United States’”**
