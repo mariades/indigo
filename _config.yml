@@ -1,14 +1,13 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Maria De Simone
+bio: Theatre and Performance Scholar
 
 # twitter summary info
-description: A blog about technology and stuff related
-
+description: Theater and Performance Scholar
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/headshot2.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -18,7 +17,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: /assets/CV_September2023.pdf
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
@@ -34,19 +33,19 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# facebook: myfacebook
+# twitter: mytwitter
+# instagram: myinstagram
+linkedin: mariades
+# github: mygithub
+email: mariades@mit.edu
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Maria De Simone
+    bio: Theater and Performance Scholar 
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/headshot2.png
     twitter: johndoe
   jamesfoster:
     name: James Foster
@@ -61,13 +60,16 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
+research: true
+symposia: true
+teaching: true
 
-# do you want to show the "read time" of the posts?
+# do you want to show the "read time" of tshe posts?
 read-time: true
 
 # do you want to show the "tags" inside the posts?
