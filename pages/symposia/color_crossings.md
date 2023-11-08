@@ -18,4 +18,4 @@ permalink: /symposia/color_crossings
 **Invited speakers:** Kareem Khubchandani (keynote, Tufts University), Vanatta Ford (Williams College), Tao Leigh Goffe (Columbia University), Tina Post (University of Chicago), and Anna Storti (Duke University).
 
 
-[Download the Program](/assets/PROGRAM_Color%20Crossings%20Roundtable%20FINAL.pdf)
+[Download the Program](/indigo/assets/PROGRAM_Color%20Crossings%20Roundtable%20FINAL.pdf)
