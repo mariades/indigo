@@ -11,7 +11,7 @@ permalink: /teaching/
   a { text-decoration: none; }
 </style>
 
-[Hyphenated Theatre and Performance](/teaching/hyphenated_theater)<br>
+[U.S. Immigrant Drama](/teaching/immigrant_drama)<br>
 Harvard University, Spring 2024
 
 [Contemporary American Drama: The Immigrant Experience](/teaching/immigrant_experience)<br>
