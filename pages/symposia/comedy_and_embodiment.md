@@ -27,4 +27,4 @@ Bouffons are a clown type derived from Jacques Lecoq's L'École Internationale d
 
 
 
-[Download the Program](/indigo/assets/Comedy%20&%20Embodiment.pdf)
+[Download the Program](/assets/Comedy%20&%20Embodiment.pdf)
