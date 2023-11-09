@@ -17,7 +17,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: /indigo/assets/CV_September2023.pdf
+resume-url: /assets/CV_September2023.pdf
 
 url: https://mariades.github.io/indigo
 # your url: https://USERNAME.github.io
