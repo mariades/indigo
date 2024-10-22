@@ -8,7 +8,7 @@ permalink: /research/jue_quon_tai/
 
 <h4 style="text-align: center;"><em>Theatre Journal</em> (March 2024)</h4>
 
-![Jue Quon Tai](../../assets/images/jue_quon_tai.jpg)
+![Jue Quon Tai](../../assets/images/Jue_Quon_Tai.jpeg)
 
 
 This article considers both stage performance and immigration law enforcement to redefine hyphenated Chinese American identities during the Chinese Exclusion period (1882-1943). It employs the case of Jue Quon Tai, a Chinese American singer who was active in vaudeville between 1915 and 1926. The Chinese Exclusion Act established an unforgiving legal distinction between Chinese and American, yet first-generation Chinese Americans started to see their hyphenated identities not as an either-or but as and/or voluntary choices, implying a constant reconfiguration between their Chinese and US American cultures. Legal
