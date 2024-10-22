@@ -4,7 +4,7 @@ layout: page
 permalink: /teaching/immigrant_drama/
 ---
 
-# **Contemporary American Drama: Political Theatre**
+# **Contemporary American Drama: <br> Political Theatre**
 
 ![Cullud Wattah](../../assets/images/CULLUD_WATTAH.jpg)
 
