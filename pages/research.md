@@ -27,5 +27,5 @@ permalink: /research/
 [“Alternative Archives in Popular Entertainment Research: The Chinese Exclusion Act Case Files” 
 ](/research/alternative_archives) <br> <em>Researching Popular Entertainment</em>, Jason Price and Kim Baston eds. (Routledge, 2024)
 
-[“Leadership as Community Service: The Griffin Sisters, ‘The First and Only Colored Women’s Theatrical Booking Agency in the United States’” 
+[“Theatrical Brokering and Management as Community Activism: The Griffin Sisters,”  
 ](/research/griffin_sisters/) <br> <em>Women's Innovations in Theatre, Dance, and Performance</em>, Wendy Arons, Melissa Blanco Borelli, and Elizabeth W. Son eds. (Bloomsbury, 2024)
