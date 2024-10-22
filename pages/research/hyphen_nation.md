@@ -4,7 +4,7 @@ layout: page
 permalink: /research/hyphen_nation/
 ---
 
-# ***Hyphen-Nation: Racial Impersonation and the Performance of Hyphenated Americanness***
+# ***Hyphen-Nation: Racial Impersonation <br> and the Performance of Hyphenated Americanness***
 
 ![alternative archives](../../assets/images/hyphen_nation.jpg)
 
