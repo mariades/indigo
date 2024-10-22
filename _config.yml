@@ -7,7 +7,8 @@ description: Theater and Performance Scholar
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/headshot3.jpg
+picture: assets/images/headshot2.jpg
+picture_about: assets/images/headshot3.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
