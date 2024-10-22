@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 ---
 
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({% if site.external-image %}{{ site.picture_about }}{% else %}{{ site.url }}/{{ site.picture_about }}{% endif %})
 
 I am a Postdoctoral Associate in the Department of Music and Theater Arts at the Massachusetts Institute of Technology. I joined MIT after being a Visiting Assistant Professor at Brown University and receiving my Ph.D. in Interdisciplinary Theatre Studies from Northwestern University.
 
