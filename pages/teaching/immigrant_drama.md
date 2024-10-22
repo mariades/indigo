@@ -4,13 +4,13 @@ layout: page
 permalink: /teaching/immigrant_drama/
 ---
 
-# **U.S. Immigrant Drama**
+# **Contemporary American Drama: Political Theatre**
 
-![melting pot](../../assets/images/melting_pot.jpeg)
+![melting pot](../../assets/images/CULLAD_WATTAH.jpg)
 
-Through the reading and viewing of plays, students analyze how theatre illuminates cultural, racial, and legal perspectives on the immigrant experience in the United States. The course is organized chronologically, starting with the dramatic literature of the early twentieth century and concluding with the recent production (2023) of “Sanctuary City” by Martyna Majok. We explore stories by and about immigrants from Eastern Europe, Ireland, China, Japan, Cuba, Mexico, and Vietnam, among others. Discussions unpack how theatre reflects, challenges, and re-constructs the idea of the “American immigrant.” Topics include cultural appropriation, reclamation, and discovery; assimilation and passing; stereotyping and identity affirmation. In this course, theatre brings into view how identity dichotomies (foreign vs citizen, immigrant vs resident, first-generation vs second-generation, racial minority vs racial majority) have shaped immigrant subjectivities in the U.S. Ultimately, the plays we engage contest monolithic conceptions of the “immigrant” and the way in which foreignness and migration have impacted understandings of citizenship and racial belonging in the United States.
-
-
+Through the reading and viewing of plays, students analyze how theatre sheds light on cultural perspectives regarding the contemporary political landscape in the United States. The course focuses on playwrights and directors of the last ten years, all of whom are female-identifying, and on stories that address five of today's most hotly debated political issues: immigration law, abortion, gun violence, native rights, and environmental racism. Students consider how theatre can advocate for social change, raise awareness about social injustices, challenge the status quo, and engage the audience in critical thinking and discussion about the world around them.
 
 
-###### (Image: Theatre program for *The Melting Pot*, by Israel Zangwill, 1916, University of Iowa Libraries)
+
+
+###### (Image: *Cullud Wattah*, by Erika Dickerson-Despenza. Victory Gardens, dir. Lili-Anne Brown.)
