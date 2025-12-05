@@ -36,4 +36,4 @@ Jason Price and Kim Baston eds. (Routledge, 2024)
 
 [“Theatrical Brokering and Management as Community Activism: The Griffin Sisters,”](/research/griffin_sisters/) <br> 
 <em>Women's Innovations in Theatre, Dance, and Performance</em> <br> 
-Wendy Arons, Melissa Blanco Borelli, and Elizabeth W. Son eds. (Bloomsbury, 2024)
+Wendy Arons, Melissa B. Borelli, and Elizabeth W. Son eds. (Bloomsbury, 2024)
