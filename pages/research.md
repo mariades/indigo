@@ -20,6 +20,7 @@ permalink: /research/
 
 [“Chinese American Identity, Performance, and Immigration Law: Jue Quon Tai in Theaters and at National Borders” 
 ](/research/jue_quon_tai) <br> <em>Theatre Journal </em>(March 2024)
+
 Winner of the 2025 Vera Mowry Roberts Award for Research and Publication (American Theatre & Drama Society) and the 2025 Early Career Researcher Prize (Theatre & Performance Research Association)
 
 [“Sophie Tucker, Racial Hybridity and Interracial Relations in American Vaudeville” 
