@@ -5,8 +5,9 @@ permalink: /research/jue_quon_tai/
 ---
 
 # **“Chinese American Identity, Performance, and Immigration Law: Jue Quon Tai in Theaters and at National Borders”**
-
 <h4 style="text-align: center;"><em>Theatre Journal</em> (March 2024)</h4>
+
+Winner of the 2025 Vera Mowry Roberts Award for Research and Publication (American Theatre & Drama Society) and the 2025 Early Career Researcher Prize (Theatre & Performance Research Association)
 
 ![Jue Quon Tai](../../assets/images/Jue_Quon_Tai.jpeg)
 
